@@ -1,0 +1,3 @@
+H:/ACADEMIC/CODES/C/Aulas_C/Ponteiros3/cmake-build-debug/CMakeFiles/Ponteiros3.dir
+H:/ACADEMIC/CODES/C/Aulas_C/Ponteiros3/cmake-build-debug/CMakeFiles/edit_cache.dir
+H:/ACADEMIC/CODES/C/Aulas_C/Ponteiros3/cmake-build-debug/CMakeFiles/rebuild_cache.dir
