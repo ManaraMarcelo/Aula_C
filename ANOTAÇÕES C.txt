@@ -1,0 +1,4 @@
+ANOTAÇÕES C
+
+--- STRINGS: 
+// posso usar %[^\n] para fazer a leitura da string até o fim da frase
