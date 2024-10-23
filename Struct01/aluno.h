@@ -36,4 +36,6 @@ void imprimir_unico(int i);
  */
 void imprimir_tudo();
 
+void procurar_aluno(int matricula);
+
 #endif //ALUNO_H
