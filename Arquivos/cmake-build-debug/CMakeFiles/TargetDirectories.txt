@@ -1,0 +1,3 @@
+H:/ACADEMIC/CODES/C/Aulas_C/Arquivos/cmake-build-debug/CMakeFiles/Arquivos.dir
+H:/ACADEMIC/CODES/C/Aulas_C/Arquivos/cmake-build-debug/CMakeFiles/edit_cache.dir
+H:/ACADEMIC/CODES/C/Aulas_C/Arquivos/cmake-build-debug/CMakeFiles/rebuild_cache.dir
